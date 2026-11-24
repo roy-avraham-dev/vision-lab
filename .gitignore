@@ -1,0 +1,7 @@
+# משקלי המודל יורדים אוטומטית בהרצה הראשונה (ultralytics)
+*.pt
+# קבצי עבודה זמניים
+_claude/jobs/
+_claude/site_snap.zip
+*.zip.old
+__pycache__/
